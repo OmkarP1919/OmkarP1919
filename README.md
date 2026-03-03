@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Python**
 
-- 👨‍💻 All of my projects are available at [omkarpotangale.me](omkarpotangale.me)
+- 👨‍💻 All of my projects are available at [omkarpotangale.me](omkarpotangale.tech)
 
 - 💬 Ask me about **C++, DSA, Java, MySQL**
 
